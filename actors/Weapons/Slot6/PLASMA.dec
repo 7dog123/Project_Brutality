@@ -1274,8 +1274,3 @@ Actor EnemyPlasmaBall : PlasmaBall75
 	}
 }
 
-
-ACTOR ZombiePlasma: EnemyPlasmaBall
-{
-	Damage (random(7,8))
-}
